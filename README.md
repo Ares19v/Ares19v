@@ -31,7 +31,7 @@ Production-grade AI systems and cloud infrastructure. End-to-end pipelines — m
 | [**Brain-Cancer-Detection**](https://github.com/Ares19v/Brain-Cancer-Detection) | MRI brain tumor classification | EfficientNet-B0 · PyTorch · FastAPI · React | `95.6% accuracy` `external validation` |
 | [**RealEstate-GenAI-Crestline**](https://github.com/Ares19v/RealEstate-GenAI-Crestline) | Architectural GenAI asset pipeline · internship | LoRA · ComfyUI · Python | `custom-trained` `production` |
 | [**Skywalker-CloudStorageAWS**](https://github.com/Ares19v/Skywalker-CloudStorageAWS) | Role-based cloud storage with AWS S3 backend | Node.js · PostgreSQL · AWS S3 · EC2 | `RBAC` `PM2` `rate limiting` |
-
+| [**Vanguard**](https://github.com/Ares19v/Vanguard) | AI-powered AWS security posture scanner with auto-remediation | boto3 · Gemini · FastAPI · React · Docker | `real-time threat detection` `dry-run safe` |
 ---
 
 ### Stack
