@@ -1,22 +1,25 @@
 <div align="center">
-██████╗ ███████╗██╗   ██╗ █████╗ ███╗   ██╗███████╗██╗  ██╗
-██╔══██╗██╔════╝██║   ██║██╔══██╗████╗  ██║██╔════╝██║  ██║
-██║  ██║█████╗  ██║   ██║███████║██╔██╗ ██║███████╗███████║
-██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══██║██║╚██╗██║╚════██║██╔══██║
-██████╔╝███████╗ ╚████╔╝ ██║  ██║██║ ╚████║███████║██║  ██║
-╚═════╝ ╚══════╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝
 
-████████╗██╗   ██╗ █████╗  ██████╗ ██╗
-╚══██╔══╝╚██╗ ██╔╝██╔══██╗██╔════╝ ██║
-   ██║    ╚████╔╝ ███████║██║  ███╗██║
-   ██║     ╚██╔╝  ██╔══██║██║   ██║██║
-   ██║      ██║   ██║  ██║╚██████╔╝██║
-   ╚═╝      ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝
-AI & MLOps Engineer  ·  Pune, India
-Show Image Show Image
+```
+██████╗ ███████╗██╗   ██╗ █████╗ ███╗   ██╗███████╗██╗  ██╗    ████████╗██╗   ██╗ █████╗  ██████╗ ██╗
+██╔══██╗██╔════╝██║   ██║██╔══██╗████╗  ██║██╔════╝██║  ██║    ╚══██╔══╝╚██╗ ██╔╝██╔══██╗██╔════╝ ██║
+██║  ██║█████╗  ██║   ██║███████║██╔██╗ ██║███████╗███████║       ██║    ╚████╔╝ ███████║██║  ███╗██║
+██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══██║██║╚██╗██║╚════██║██╔══██║       ██║     ╚██╔╝  ██╔══██║██║   ██║██║
+██████╔╝███████╗ ╚████╔╝ ██║  ██║██║ ╚████║███████║██║  ██║       ██║      ██║   ██║  ██║╚██████╔╝██║
+╚═════╝ ╚══════╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝       ╚═╝      ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝
+```
+
+**AI & MLOps Engineer**&nbsp;&nbsp;·&nbsp;&nbsp;Pune, India
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ares19v&color=58a6ff&style=flat&label=PROFILE+VIEWS)&nbsp;![AWS Certified](https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=flat&logo=amazonaws&logoColor=58a6ff)
+
 </div>
 
-Production-grade AI systems and cloud infrastructure. End-to-end pipelines — model training, evaluation, containerized deployment, real-time inference. Primary tracks: AI/MLOps and AWS Cloud.
+---
+
+Production-grade AI systems and cloud infrastructure. End-to-end pipelines — model training, evaluation, containerized deployment, real-time inference. Primary tracks: **AI/MLOps** and **AWS Cloud**.
+
+---
 
 ### Selected Work
 
