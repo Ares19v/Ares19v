@@ -94,12 +94,6 @@ Production-grade AI systems and cloud infrastructure. End-to-end pipelines — m
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Ares19v&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&hide=prs,issues&rank_icon=github&include_all_commits=true" />&nbsp;&nbsp;<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ares19v&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=6&hide=html,css,jupyter%20notebook" />
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=Ares19v&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=6e7681&currStreakNum=c9d1d9&sideNums=c9d1d9" />
 
 </div>
