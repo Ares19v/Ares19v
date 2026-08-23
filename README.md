@@ -28,7 +28,7 @@ Production-grade AI systems and cloud infrastructure. End-to-end pipelines — m
 | [**Inspection-Engine**](https://github.com/Ares19v/Inspection-Engine) | Real-time PCB defect detection at the edge | YOLOv11s · TensorRT · FastAPI · React | `97.8% mAP50` `~12ms` `80+ FPS` |
 | [**Echo**](https://github.com/Ares19v/Echo) | Autonomous inbound voice agent for hospitals | LiveKit · LLM · Sarvam STT/TTS · FastAPI | `EN/HI/MR` `DPDP compliant` |
 | [**Limitless**](https://github.com/Ares19v/Limitless) | Production RAG — hybrid search + re-ranking | Pinecone · BM25 · CrossEncoder · FastAPI | `80% eval score` `SSE streaming` |
-| [**Brain-Cancer-Detection**](https://github.com/Ares19v/Brain-Cancer-Detection) | MRI brain tumor classification | EfficientNet-B0 · PyTorch · FastAPI · React | `95.6% accuracy` `external validation` |
+| [**Code-Autopsy**](https://github.com/Ares19v/Code-Autopsy) | Full-stack AI code review & root-cause fix engine | Qwen2.5-7B (Fine-tuned) · PyTorch · Gradio | `fine-tuned 7B` `AST parsing` `instant fixes` |
 | [**RealEstate-GenAI-Crestline**](https://github.com/Ares19v/RealEstate-GenAI-Crestline) | Architectural GenAI asset pipeline · internship | LoRA · ComfyUI · Python | `custom-trained` `production` |
 | [**Skywalker-CloudStorageAWS**](https://github.com/Ares19v/Skywalker-CloudStorageAWS) | Role-based cloud storage with AWS S3 backend | Node.js · PostgreSQL · AWS S3 · EC2 | `RBAC` `PM2` `rate limiting` |
 | [**Vanguard**](https://github.com/Ares19v/Vanguard) | AI-powered AWS security posture scanner with auto-remediation | boto3 · LLM API · FastAPI · React · Docker | `real-time threat detection` `dry-run safe` |
