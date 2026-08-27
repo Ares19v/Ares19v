@@ -11,7 +11,7 @@
 
 **AI & MLOps Engineer**&nbsp;&nbsp;·&nbsp;&nbsp;Pune, India
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ares19v&color=58a6ff&style=flat&label=PROFILE+VIEWS)&nbsp;![AWS Certified](https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=flat&logo=amazonaws&logoColor=58a6ff)
+![Profile Views](https://komarev.com/ghpvc/?username=Ares19v&color=58a6ff&style=flat&label=PROFILE+VIEWS)&nbsp;![AWS Certified](https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=flat&logo=amazonaws&logoColor=58a6ff)&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/devansh-tyagi-dev)
 
 </div>
 
